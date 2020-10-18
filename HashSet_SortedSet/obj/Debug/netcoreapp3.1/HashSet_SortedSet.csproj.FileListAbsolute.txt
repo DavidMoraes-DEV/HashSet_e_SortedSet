@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.exe
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.deps.json
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.dll
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\netcoreapp3.1\HashSet_SortedSet.pdb
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.dll
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.pdb
+C:\ProgramasCSharp\ConceitoDeConjuntos\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\netcoreapp3.1\HashSet_SortedSet.genruntimeconfig.cache
